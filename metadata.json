@@ -1,0 +1,7 @@
+{
+  "name": "Meeting Cost",
+  "description": "Calculate your live salary burn rate per hour and per minute.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
